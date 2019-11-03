@@ -1,12 +1,6 @@
 [barter.li Android App][1]
 ==========================
 
-- Clone the repo. 
-
-```
-git clone git@github.com:barterli/barterli_android.git
-```
-
 - Import to [Android Studio][2].
 
 - Remember to update your [SDK and build tools][3] to the latest versions. We use the Renderscript Support Library, which always gets updated to the latest build tools.
@@ -33,8 +27,6 @@ git clone git@github.com:barterli/barterli_android.git
 ```
 
 - You are good to go!
-
-- If you do something cool, and you think we can benefit, feel free to send a pull request our way. We'll be updating our contribution guidelines very soon once the stable version of the app is out. The current target is April 13, 2014 for the 1st Alpha Release.
 
 ATTRIBUTIONS
 ------------
